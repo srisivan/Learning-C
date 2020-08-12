@@ -74,7 +74,7 @@ float sigma(float start, float end, char operator, float num)
 				break;
 			}
 		}
-		printf("%d = %.2f\n",n, element);
+		printf(" %.2f\n", element);
 		result += element;
 	}
 
